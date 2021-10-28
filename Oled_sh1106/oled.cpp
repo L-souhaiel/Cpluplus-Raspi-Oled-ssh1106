@@ -1,3 +1,8 @@
+
+
+//Oled sh1106 Driver on Raspberry Pi written in C++
+
+
 #include "oled.h"
 #include "fonts.h"
  static  uint8_t frame[1024];
