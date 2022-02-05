@@ -9,9 +9,9 @@ A C++ module for accessing the Oled-SSH1106 Display on a Raspberry Pi 3b+
 
 Assuming that the address of your Display 0x01 . that can be changed  from the main function in the oled.cpp file . this example will print hallo world on the 
 
-second horizontal ligne and in the fourth vertical ligne . this can be change from the main function in the oled.cpp file from the Display.text() function . than 
+second horizontal ligne and in the fourth vertical ligne . This can be changed from the main function in the oled.cpp file from the Display.text() function. Then 
 
-run Display.display() to clear the old text and print the new one. you can choose a new fonts and download it than copie it in the fonts.cpp file .  
+run Display.display() to clear the old text and print the new one. you can choose a new font, download it then copie it in the fonts.cpp file .  
 
 # Dependencies
 
